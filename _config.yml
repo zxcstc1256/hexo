@@ -74,6 +74,8 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 theme: yilia
 
+baidu_analytics: 4adb891a2c719b2d2a7f0944e3f7c394
+
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
